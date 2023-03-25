@@ -32,17 +32,6 @@
         </ul>
       </li>
     @endcan
-
-    @can('station_access')
-    <li class="nav-item">
-        <a class="nav-link " href="{{ route('admin.station.index') }}">
-            <i class="fa-solid fa-house-flag"></i>
-          <span>{{ trans('cruds.station.title') }}</span>
-        </a>
-      </li><!-- End Dashboard Nav -->
-    @endcan
-
-      <!-- End Components Nav -->
     </ul>
 
   </aside><!-- End Sidebar-->

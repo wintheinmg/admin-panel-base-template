@@ -12,7 +12,7 @@ return [
     | these language lines according to your application's requirements.
     |
     */
-    'web_title' => 'Railway Ticket',
+    'web_title' => 'Admin Panel',
     'dashboard' => 'Dashboard',
     'no'        =>  'No',
     'actions'   =>  'Actions',
